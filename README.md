@@ -14,5 +14,6 @@ GET http://localhost:3000/ ->As a Base URL
 
 Use Postman to calculate the price.
 
+live link - https://food-del-app-2.onrender.com
 
-live link - https://shamranganathan.github.io/food-del-app/
+ 
