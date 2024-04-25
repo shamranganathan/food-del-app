@@ -12,7 +12,19 @@ Step 3
 
 GET http://localhost:3000/ ->As a Base URL
 
-Use Postman to calculate the price.
+i Used Postman to test the output totalprice by giving POST method with address http://localhost:3000/calculate-price by giving input
+{
+    "zone": "A",
+    "distance": 7,
+    "itemType": "perishable"
+}
+
+and we get the output as
+{
+    "totalPrice": 13
+}
+
+
 
 live link - https://food-del-app-2.onrender.com
 
